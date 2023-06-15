@@ -1,7 +1,9 @@
 # Manual-Authentication
-Manual Authentication using node js and mongo-db <br>
-library used <span style="color : orange;">ejs</span>,express,path,body-parser,cookie-parser.<br>
-Used MVC file structure <br>
-signup page = localhost:8000/user/sign_up<br>
-signin page = localhost:8000/user/sign_in<br>
-profile page = localhost:8000/user/profile<br>
+<ul>
+<li>Manual Authentication using node js and mongo-db</li>
+<li>library used ejs,express,path,body-parser,cookie-parser.</li>
+<li>Used MVC file structure </li>
+<li>signup page = localhost:8000/user/sign_up</li>
+<li>signin page = localhost:8000/user/sign_in</li>
+<li>profile page = localhost:8000/user/profile</li>
+</ul>
